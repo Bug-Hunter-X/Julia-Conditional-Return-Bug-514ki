@@ -1,0 +1,3 @@
+# Unexpected Behavior in Julia Function with Conditional Return
+
+This repository demonstrates an uncommon bug in Julia related to unexpected behavior in a function with a conditional return statement.  The function `my_function` is intended to return 0 for negative inputs and the square of the input for positive inputs. However, it produces unexpected results. The solution demonstrates how to correct this unexpected behavior. 
